@@ -1,3 +1,4 @@
+--source: http://www.nhn.ou.edu/~bumm/ELAB/VHDL_example_lab_15_p5.html
 ----------------------------------------------------------------------------------
 -- Company: University of Oklahoma/Phys2303
 -- Engineer: L.A. Bumm
