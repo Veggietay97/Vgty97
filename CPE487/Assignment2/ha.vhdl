@@ -1,6 +1,8 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
+-- source:https://www.youtube.com/watch?v=H2GyAIYwZbw
+
 entity ha is
 	port
 	(
