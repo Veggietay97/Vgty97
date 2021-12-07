@@ -12,3 +12,7 @@ Piano key notes:
 * SW5: A
 * SW6: B
 * SW7: Pre-programed music box(haven't implement yet)
+
+Possible future implementations:
+* Sharp notes
+* Music box
