@@ -4,7 +4,8 @@ The project is a modification of the Lab5.
 Instead of making a wailing siren, it produces a piano sound based on the switches on the board.
 
 Example Audio:
-![project_audio.mp4](https://github.com/Veggietay97/Vgty97/blob/master/CPE487/FInal_Project/project_audio.mp4)
+https://user-images.githubusercontent.com/60272337/145454217-109df992-335f-41af-a317-c55aceedb12f.mp4
+
 
 
 Piano key notes:
